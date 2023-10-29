@@ -65,7 +65,5 @@ Contribute on-chain for fair incentive and collaboration
 ![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
 
 ## Developers
-**Annie Karen**
-(Dropout) CS Freshman @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
-### Add Telegram and contribute with us!
-![Pinnect.006.jpeg](/images/annie.jpeg)
+**Annie Huang**
+CS + Business Sophomore @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
